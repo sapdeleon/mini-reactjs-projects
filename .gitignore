@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+# visual studio
+.vs/
+.v16/
+*.suo
+*.sqlite
+
 # production
 /build
 

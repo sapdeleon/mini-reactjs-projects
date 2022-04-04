@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "../src/emoji/App";
+import App from "../src/birthday/App";
 
 ReactDOM.render(
   <React.StrictMode>
